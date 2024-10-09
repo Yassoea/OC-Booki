@@ -215,11 +215,10 @@ form{
     position: relative;
     right: 5px;
     border-radius: 50%;
-    font-size: 20px;
+    font-size: 25px;
     width: 60px;
     height: 60px;
     color: var(--principale);
-    background-color: var(--secondaire);
     transition: all 0.4s ease-in-out;
 }
 
@@ -246,14 +245,8 @@ form{
 .box-filtre h3{
     padding: 0 20px 0 10px;
 }
-
-.box-filtre:hover .filtre-logo{
-    transform: rotate(360deg);
-}
-
 .box-filtre:hover{
-    background-color: var(--principale);
-    color: white;
+    background-color: #DEEBFF;   
 }
 
 /* Infos */
