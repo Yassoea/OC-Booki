@@ -623,13 +623,12 @@ footer{
     .conteneur-carte-activite{
         flex-direction: row;
         justify-content: space-between;
-        height: auto;
-        
+        height: auto; 
     }
 
     .conteneur-carte-activite a {
         width: 20%;
-        height: 500px;
+        height: 250px;
     }
 
     /* Footer */
@@ -684,6 +683,8 @@ footer{
         height: 250px;
         margin-bottom: 20px; 
     }
+    
+    
 
     
 
